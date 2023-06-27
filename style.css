@@ -1,0 +1,59 @@
+
+
+.card{
+    box-shadow: 0px 0px 10px 0px #666;
+    cursor: pointer;
+}
+
+
+
+.footer .box-container{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-left: 20px;
+ }
+ 
+ .footer .box-container .box{
+    padding: 2rem 0;
+    flex: 1 1 35rem;
+ }
+ 
+ 
+ 
+ .footer .box-container .box h3{
+    font-size: 1.5rem;
+    color: white;
+ }
+ .footer .box-container .box{
+    font-size: 30px;
+    color: white;
+    padding: .7rem 0;
+ }
+ 
+ .footer .box-container .box h6{
+    padding: 1rem 0;
+ }
+ 
+ .footer .box-container .box h6 a{
+    display: block;
+    padding:.5rem 0;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+ }
+ 
+ .footer .box-container .box h6 a:hover{
+    color: orange;
+ }
+ 
+ 
+ .our{
+   background-image: radial-gradient(white 30%,white 5%,#17202a);
+   background-position: center;
+   background-size: cover;
+   height: 30px;
+   border-radius: 30px 30px 30px 30px;
+ }
+ 
+
